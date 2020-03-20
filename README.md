@@ -48,10 +48,13 @@ We believe in the ingenuity, intelligence, and brilliance of those in the commun
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
-### Open Covid19 Partners
+## Open Covid19 Partners
 * [Galvanized](https://www.galvanize.com/), provides a technology ecosystem for learners, entrepreneurs, startups, and established companies
 * [TigerGraph](https://tigergraph.com), a native parallel graph (database) platform built for speed and scale
 * [Futurist Academy](https://futuristacademy.org), non-profit focused providing the youth with knowledge, tools, opportunities, connections, and resources to make an impact
 * [Emerging Technology North](https://www.meetup.com/applied_ai)
 * [Applied AI](https://www.meetup.com/applied_ai)
+
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 
