@@ -5,6 +5,7 @@
 
 > This is Open Source global community project that is targeted at FIGHTING against COVID-19 TOGETHER!
 
+### [LIST OF ALL RESOURCES](https://github.com/opencovid-19/main/blob/master/awesome-covid19.md)
 The only guideline for Open Covid19 Project is to build tools and applications that enable others to fight against the Coronavirus.
 
 ![Air traffic flow 2018](https://preview.redd.it/wevw1wq5gwc31.jpg?width=960&crop=smart&auto=webp&s=870f0423f68d5331f8717eb9e9bc5257b0428e67)
