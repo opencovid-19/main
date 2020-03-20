@@ -15,7 +15,7 @@ Your contributions are always welcome!
     - [Publications](#publications)
 - [Tools](#tools)
     - [Python](#python)
-    - [Juypter Notebook](#jupyter-notebook)
+    - [Jupyter Notebook](#jupyter-notebook)
     - [Scripts](#scripts)
     - [Visualizations](#visualizations)
 - [Applications](#tools)
@@ -25,7 +25,7 @@ Your contributions are always welcome!
 - [Communities](#communities)
     - [Slack](#slack)
     - [Discord](#discord)
-    - [Fourms](#fourms)
+    - [Forums](#forums)
     - [meetups](#meetups)
     - [hackathons](#hackathons)
 - [Free Resources](#free-resources)
@@ -57,7 +57,7 @@ Your contributions are always welcome!
 * [xray data](https://github.com/ieee8023/covid-chestxray-dataset)
 ## News
 * [the-latest-coronavirus-cases](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
-## Goverments
+## Governments
 * [Singapore Ministry of Health](https://www.moh.gov.sg/covid-19/)
 * [Center for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/)
 
@@ -69,21 +69,21 @@ Your contributions are always welcome!
 ## Python
 * [CV-19](https://github.com/closedloop-ai/cv19index) an opensource python package “Vulnerability Index” 
 * [pyCovid](https://github.com/sudharshan-ashok/pycovid) an opensource python package to grab case data
-## Juypter Notebook
+## Jupyter Notebook
 * [pyCovid Project](https://colab.research.google.com/drive/1TLUcYR-CqxTGzw-g5Ap2yzh-b2WZMrrr) a simple jupyter notebook others can reference, and/or use
 * [Pull Open-Sky Flight Data](https://colab.research.google.com/drive/16NCKbgVTZIrBj-CasNI7ZycpBZdghJqp#scrollTo=b-flVhevP2IJ), sample project to pull data from open-sky api
 ## Scripts
 *
 
 # Applications
-## Visulaizations
-* [Obersvable Coronavirus Visualizations](https://observablehq.com/collection/@observablehq/coronavirus) a collection of COVID19 visulizations
-* [COVID-19 Infograsphics](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/), inforgraphics you can use to inform others on COVID-19
+## Visualizations
+* [Observable Coronavirus Visualizations](https://observablehq.com/collection/@observablehq/coronavirus) a collection of COVID19 visualizations
+* [COVID-19 Infographics](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/), infographics you can use to inform others on COVID-19
 * [Next Strain](https://nextstrain.org/ncov)
 
 ## Dashboards
-* [John Hopkins Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6), most famous covid19 dashboard
-* [Covid19 Globe](https://jsapi.dev/covid19-dashboard/), 3d globe with John Hopkins data
+* [Johns Hopkins Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6), most famous covid19 dashboard
+* [Covid19 Globe](https://jsapi.dev/covid19-dashboard/), 3d globe with Johns Hopkins data
 * [COVID-19 Statistics with Map](http://covidly.com)
 ## Mobile
 *
