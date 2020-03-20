@@ -16,7 +16,7 @@ Your contributions are always welcome!
     - [Python](#python)
     - [Juypter Notebook](#jupyter-notebook)
     - [Scripts](#scripts)
-    - [Visualizations](#scripts)
+    - [Visualizations](#visualizations)
 - [Applications](#tools)
     - [Dashboards](#dashboards)
     - [Mobile](#mobile)
