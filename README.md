@@ -8,7 +8,7 @@
 ### [LIST OF ALL RESOURCES](https://github.com/opencovid-19/main/blob/master/awesome-covid19.md)
 The only guideline for Open Covid19 Project is to build tools and applications that enable others to fight against the Coronavirus.
 
-![Air traffic flow 2018](https://preview.redd.it/wevw1wq5gwc31.jpg?width=960&crop=smart&auto=webp&s=870f0423f68d5331f8717eb9e9bc5257b0428e67)
+![covid19](https://www.cityofmonrovia.org/Home/ShowPublishedImage/9390/637194345629530000)
 
 **We Are At War**
 As you are aware the world is experience a generational event going though a global pandemic that will have numerous impacts on society as we know it. It is for this reason we would like to come together to help FIGHT COVID-19 by any means necessary.
