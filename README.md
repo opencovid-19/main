@@ -1,8 +1,9 @@
 # Open Covid19 Project
-> This is Open Source global community project that is targeted at FIGHTING against COVID-19 TOGETHER!
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/opencovid-19/data/graphs/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/opencovid-19/data/issues)
+
+> This is Open Source global community project that is targeted at FIGHTING against COVID-19 TOGETHER!
 
 The only guideline for Open Covid19 Project is to build tools and applications that enable others to fight against the Coronavirus.
 
