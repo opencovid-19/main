@@ -3,7 +3,9 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/opencovid-19/data/graphs/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/opencovid-19/data/issues)
 
-> This is Open Source global community project that is targeted at FIGHTING against COVID-19 TOGETHER! </br> </br> The only guideline for Opeb Covid19 Project is to build tools and applications that enable others to fight against the Coronavirus.
+> This is Open Source global community project that is targeted at FIGHTING against COVID-19 TOGETHER!
+
+The only guideline for Open Covid19 Project is to build tools and applications that enable others to fight against the Coronavirus.
 
 **We Are At War**
 As you are aware the world is experience a generational event going though a global pandemic that will have numerous impacts on society as we know it. It is for this reason we would like to come together to help FIGHT COVID-19 by any means necessary.
@@ -12,6 +14,11 @@ As you are aware the world is experience a generational event going though a glo
 We believe in the ingenuity, intelligence, and brilliance of those in the community. That is why we are seeking that this community comes together to help build solutions that will help address the challenges we face not only today, but in the future.
 
 ## Getting Started
+**As a community:**
+1. Add yourself to the partner list
+2. Share this repository with your community
+3. Activate your community in the fight by contirbuting to the project
+* *One common way to do this is to host a hackathon or challenge to your community*
 
 **As a researcher identify and document:**
 > Add these to the awesome-covid19.md
@@ -19,7 +26,6 @@ We believe in the ingenuity, intelligence, and brilliance of those in the commun
 - Supporting publications and research
 - Use cases
 - Projects
-
 
 **As a developer identify, document and build:**
 > Add these to the awesome-covid19.md and/or this repository
@@ -37,7 +43,6 @@ We believe in the ingenuity, intelligence, and brilliance of those in the commun
 *This isn’t an extensive list but a few ideas to spark an idea. It could be as simple as providing clean data, researching data, or deriving new data for others to use.*
 
 ## Contributing
-
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
