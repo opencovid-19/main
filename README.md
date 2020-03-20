@@ -40,3 +40,11 @@ We believe in the ingenuity, intelligence, and brilliance of those in the commun
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
+
+### Open Covid19 Partners
+* [Galvanized](https://www.galvanize.com/)
+* [TigerGraph](https://tigergraph.com)
+* [Futurist Academy](https://futuristacademy.org)
+* [Emerging Technology North](https://www.meetup.com/applied_ai)
+* [Applied AI](https://www.meetup.com/applied_ai)
+
