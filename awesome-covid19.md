@@ -75,7 +75,8 @@ Your contributions are always welcome!
 
 # Applications
 ## Visulaizations
-* [Coronavirus Visualizations](https://observablehq.com/collection/@observablehq/coronavirus) a collection of COVID19 visulizations
+* [Obersvable Coronavirus Visualizations](https://observablehq.com/collection/@observablehq/coronavirus) a collection of COVID19 visulizations
+* [COVID-19 Infograsphics](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/), inforgraphics you can use to inform others on COVID-19
 * [Next Strain](https://nextstrain.org/ncov)
 
 ## Dashboards
