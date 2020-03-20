@@ -51,7 +51,7 @@ Your contributions are always welcome!
 ## Scripts
 *
 
-# Applications]
+# Applications
 ## Dashboards
 *
 ## Mobile
