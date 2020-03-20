@@ -49,9 +49,9 @@ We believe in the ingenuity, intelligence, and brilliance of those in the commun
 5. Create a new Pull Request
 
 ### Open Covid19 Partners
-* [Galvanized](https://www.galvanize.com/)
-* [TigerGraph](https://tigergraph.com)
-* [Futurist Academy](https://futuristacademy.org)
+* [Galvanized](https://www.galvanize.com/), provides a technology ecosystem for learners, entrepreneurs, startups, and established companies
+* [TigerGraph](https://tigergraph.com), a native parallel graph (database) platform built for speed and scale
+* [Futurist Academy](https://futuristacademy.org), anon-profit focused providing the youth with knowledge, tools, opportunities, connections, and resources to make an impact
 * [Emerging Technology North](https://www.meetup.com/applied_ai)
 * [Applied AI](https://www.meetup.com/applied_ai)
 
