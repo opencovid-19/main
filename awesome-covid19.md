@@ -34,6 +34,8 @@ Your contributions are always welcome!
 - [Open Covid19 Partners](#open-covid-19-partners)
 
 # Covid19 Data
+## APIs
+* [COVID19 API INITIATIVE](https://www.xapix.io/covid-19-initiative), Building blocks for researchers and developers to tackle the coronavirus and its broader implications
 ## Cases
 * [John Hopkins](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
 * [Patient-Medical-Data-for-Novel-Coronavirus-COVID-19](https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19)
