@@ -75,6 +75,8 @@ Your contributions are always welcome!
 # Applications
 ## Visulaizations
 * [Coronavirus Visualizations](https://observablehq.com/collection/@observablehq/coronavirus) a collection of COVID19 visulizations
+* [Next Strain](https://nextstrain.org/ncov)
+
 ## Dashboards
 * [John Hopkins Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6), most famous covid19 dashboard
 * [Covid19 Globe](https://jsapi.dev/covid19-dashboard/), 3d globe with John Hopkins data
