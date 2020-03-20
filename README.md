@@ -45,6 +45,15 @@ We believe in the ingenuity, intelligence, and brilliance of those in the commun
 
 *This isn’t an extensive list but a few ideas to spark an idea. It could be as simple as providing clean data, researching data, or deriving new data for others to use.*
 
+## Active Challenges
+* [CDC Research Submission](https://github.com/opencovid-19/main/blob/master/COVID-19%2BBAA%2BFY20%2B-%2B75D301-20-R-67897.pdf)
+  * Topic1: Surveillance, natural history, and household transmission of SARS CoV-2
+  * Topic 2: Diagnostics development and novel technology development and evaluation to improve diagnostic testing capabilities for COVID-19 detection
+  * Topic 3: Immune response and transmission dynamics for SARS CoV-2
+  * Topic 4: Host infection dynamics for SARS CoV-2
+  * Topic 5: Prospective Cohorts to Assess COVID-19 and Other Respiratory Diseases (ID/EPB)
+
+
 ## Contributing
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
