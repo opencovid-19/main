@@ -69,6 +69,7 @@ Your contributions are always welcome!
 * [pyCovid](https://github.com/sudharshan-ashok/pycovid) an opensource python package to grab case data
 ## Juypter Notebook
 * [pyCovid Project](https://colab.research.google.com/drive/1TLUcYR-CqxTGzw-g5Ap2yzh-b2WZMrrr) a simple jupyter notebook others can reference, and/or use
+* [Pull Open-Sky Flight Data](https://colab.research.google.com/drive/16NCKbgVTZIrBj-CasNI7ZycpBZdghJqp#scrollTo=b-flVhevP2IJ), sample project to pull data from open-sky api
 ## Scripts
 *
 
