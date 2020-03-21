@@ -38,10 +38,10 @@ Creemos en el ingenio, la inteligencia y la brillantez de los miembros de la com
 - Aplicaciones (ej. Flutter, React)
 
 **Algunos ejemplos**:
-* [CV-19] (https://github.com/closedloop-ai/cv19index) un paquete de código abierto de Python "Índice de vulnerabilidad CV-19"
-* [pyCovid] (https://github.com/sudharshan-ashok/pycovid) un paquete python de código abierto para obtener datos de casos
-* [Visualizaciones de coronavirus] (https://observablehq.com/collection/@observablehq/coronavirus) una colección de visulizaciones de COVID19
-* [Proyecto Covid de muestra] (https://colab.research.google.com/drive/1TLUcYR-CqxTGzw-g5Ap2yzh-b2WZMrrr) un simple cuaderno jupyter que otros pueden consultar y / o usar
+* [CV-19](https://github.com/closedloop-ai/cv19index) un paquete de código abierto de Python "Índice de vulnerabilidad CV-19"
+* [pyCovid](https://github.com/sudharshan-ashok/pycovid) un paquete python de código abierto para obtener datos de casos
+* [Visualizaciones de coronavirus](https://observablehq.com/collection/@observablehq/coronavirus) una colección de visulizaciones de COVID19
+* [Proyecto Covid de muestra](https://colab.research.google.com/drive/1TLUcYR-CqxTGzw-g5Ap2yzh-b2WZMrrr) un simple cuaderno jupyter que otros pueden consultar y / o usar
 
 
 * Esta no es una lista extensa, sino algunas ideas para generar una idea. Podría ser tan simple como proporcionar datos limpios, investigar datos o derivar nuevos datos para que otros los usen. *
@@ -63,7 +63,7 @@ Creemos en el ingenio, la inteligencia y la brillantez de los miembros de la com
    * Tema 5: Cohortes prospectivas para evaluar COVID-19 y otras enfermedades respiratorias (ID / EPB)
 
 ## Contributing
-1. Fork it (Bifurcarlo) (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (Bifurcarlo)(<https://github.com/yourname/yourproject/fork>)
 2. Create your feature branch ( Cree su rama de características) (git checkout -b feature/fooBar)
 3. Commit your changes (Confirma tus cambios) (git commit -am 'Add some fooBar')
 4. Push to the branch (Empuje hacia la rama) (git push origin feature/fooBar)
@@ -75,13 +75,14 @@ Creemos en el ingenio, la inteligencia y la brillantez de los miembros de la com
 * Curso completo de GIT ... https://www.youtube.com/watch?v=jSJ8xhKtfP4&list=PLTd5ehIj0goMCnj6V5NdzSIHBgrIXckGU
 
 ## Abrir socios de Covid19
-* [Galvanized] (https://www.galvanize.com/), proporciona un ecosistema tecnológico para estudiantes, emprendedores, nuevas empresas y empresas establecidas
-* [TigerGraph] (https://tigergraph.com), una plataforma nativa de gráficos paralelos (base de datos) creada para la velocidad y la escala
-* [Futurist Academy] (https://futuristacademy.org), enfocada en organizaciones sin fines de lucro, brindando a los jóvenes conocimientos, herramientas, oportunidades, conexiones y recursos para lograr un impacto
-* [Emerging Technology North] (https://www.meetup.com/applied_ai)
-* [IA aplicada] (https://www.meetup.com/applied_ai)
+* [Galvanized](https://www.galvanize.com/), proporciona un ecosistema tecnológico para estudiantes, emprendedores, nuevas empresas y empresas establecidas
+* [TigerGraph](https://tigergraph.com), una plataforma nativa de gráficos paralelos (base de datos) creada para la velocidad y la escala
+* [Futurist Academy](https://futuristacademy.org), enfocada en organizaciones sin fines de lucro, brindando a los jóvenes conocimientos, herramientas, oportunidades, conexiones y recursos para lograr un impacto
+* [Emerging Technology North](https://www.meetup.com/applied_ai)
+* [IA aplicada](https://www.meetup.com/applied_ai)
 
 
-* Oscardo (Colombia) [mailto:Oscardo2000@gmail.com]
+* [Oscardo Colombia](mailto:Oscardo2000@gmail.com)
+
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
