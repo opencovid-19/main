@@ -85,10 +85,11 @@ Your contributions are always welcome!
 * [Johns Hopkins Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6), most famous covid19 dashboard
 * [Covid19 Globe](https://jsapi.dev/covid19-dashboard/), 3d globe with Johns Hopkins data
 * [COVID-19 Statistics with Map](http://covidly.com)
+* [COVID19 Global Map & US](https://covid19.fyi) (US counties again soon)
 ## Mobile
 *
 ## Projects
-*
+* [COVID19 OSS](https://github.com/covid19-oss)
 
 # Communities
 ## Slack
