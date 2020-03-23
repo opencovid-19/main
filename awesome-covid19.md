@@ -117,7 +117,7 @@ Your contributions are always welcome!
 ## Education
 
 # Open Covid19 Partners
-* [TigerGraph](https://tigergraph.com)
+* [TigerGraph](https://www.tigergraph.com/stopcoronavirus/), #stopcoronavirus
 * [Galvanized](https://www.galvanize.com/)
 * [Futurist Academy](https://futuristacademy.org)
 * [Emerging Technology North](https://www.meetup.com/applied_ai)
