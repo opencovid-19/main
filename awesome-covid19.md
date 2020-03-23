@@ -36,7 +36,7 @@ Your contributions are always welcome!
 
 # Covid19 Data
 ## APIs
-* [covid19api](https://covid19api.com/), 
+* [covid19api](https://covid19api.com/), Access data on COVID19 through an easy API for free. Build dashboards, mobile apps or integrate in to other applications. Data is sourced from Johns Hopkins CSSE
 * [COVID19 API INITIATIVE](https://www.xapix.io/covid-19-initiative), Building blocks for researchers and developers to tackle the coronavirus and its broader implications
 ## Cases
 * [John Hopkins](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
