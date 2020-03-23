@@ -42,6 +42,7 @@ Your contributions are always welcome!
 * [John Hopkins](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
 * [Patient-Medical-Data-for-Novel-Coronavirus-COVID-19](https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19)
 * [Korea Case Data](https://github.com/jihoo-kim/Data-Science-for-COVID-19/blob/master/dataset-detailed-description.ipynb)
+* [State-by-state data](https://covidtracking.com/data/)
 
 ## Genomics
 * [Genetic-Sequences-for-the-SARS-CoV-2-Coronavirus](https://datarepository.wolframcloud.com/resources/Genetic-Sequences-for-the-SARS-CoV-2-Coronavirus)
@@ -92,6 +93,8 @@ Your contributions are always welcome!
 *
 ## Projects
 * [COVID19 OSS](https://github.com/covid19-oss)
+* [The COVID Tracking Project](https://covidtracking.com/)
+* [Covid19 Scenario Modeling](https://github.com/neherlab/covid19_scenarios)
 
 # Communities
 ## Slack
