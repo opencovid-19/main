@@ -7,6 +7,7 @@ A curated list of awesome covid19 data sources, tools and scripts and other awes
 Your contributions are always welcome!
 
 - [Covid19 Data](#covid19-data)
+    - [APIs](#apis)
     - [Cases](#cases)
     - [Genomics](#genomics)
     - [Images](#images)
