@@ -99,6 +99,7 @@ Your contributions are always welcome!
 * [CoronaVirus](https://discord.gg/Bphw4dF)
 * [Help with Covid](https://discord.gg/SMtJpJp)
 * [Hack Quarantine](https://discord.gg/hx8y7N5)
+* [COVID19 OSS](https://discord.gg/sbsVe7F)
 ## Fourms
 * [covid-19-genomic-sequence-ideas](https://community.tigergraph.com/t/covid-19-genomic-sequence-ideas/40)
 
