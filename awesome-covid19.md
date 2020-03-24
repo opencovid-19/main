@@ -95,6 +95,7 @@ Your contributions are always welcome!
 * [COVID19 OSS](https://github.com/covid19-oss)
 * [The COVID Tracking Project](https://covidtracking.com/)
 * [Covid19 Scenario Modeling](https://github.com/neherlab/covid19_scenarios)
+* [Epedemic Calculator](http://gabgoh.github.io/COVID/index.html), calculator implements a classical infectious disease model — SEIR (Susceptible → Exposed → Infected → Removed)
 
 # Communities
 ## Slack
