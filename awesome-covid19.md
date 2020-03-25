@@ -107,6 +107,9 @@ Your contributions are always welcome!
 ## Hackathons
 * [VIRTUAL COVID 19 Open-Source Community Collaboration Challenge](https://www.meetup.com/applied_ai/events/269502562/)
 
+## Conferences
+* [COVID-19 and AI: A Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/overview)
+
 # Free Resources
 ## Platforms
 * [TigerGraph Cloud](tgcloud.io), free cloud native graph sandbox
