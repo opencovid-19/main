@@ -1,11 +1,11 @@
-# Open Covid19 Project
+![covid19](https://github.com/opencovid-19/main/blob/master/covid_logo.png)
+
+> This is Open-Source Global Community Project that is targeted at FIGHTING against COVID-19 TOGETHER!
+
+![covid19](https://www.cityofmonrovia.org/Home/ShowPublishedImage/9390/637194345629530000)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/opencovid-19/data/graphs/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/opencovid-19/data/issues)
-
-> This is Open Source global community project that is targeted at FIGHTING against COVID-19 TOGETHER!
-
-![covid19](https://www.cityofmonrovia.org/Home/ShowPublishedImage/9390/637194345629530000)
 
 ### [LIST OF ALL RESOURCES](https://github.com/opencovid-19/main/blob/master/awesome-covid19.md)
 The only guideline for Open Covid19 Project is to build tools and applications that enable others to fight against the Coronavirus.
