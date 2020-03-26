@@ -69,7 +69,7 @@ We believe in the ingenuity, intelligence, and brilliance of those in the commun
 5. Create a new Pull Request
 
 ## Open Covid19 Partners
-* [Galvanize](https://www.galvanize.com/), provides a technology ecosystem for learners, entrepreneurs, startups, and established companies
+* [Galvanize](https://www.galvanize.com/), provides a technology ecosystem for learners, entrepreneurs, startups, and established companies.
 * [TigerGraph ,#stopcoronavirus](https://www.tigergraph.com/stopcoronavirus/), a native parallel graph (database) platform built for speed and scale
 * [Futurist Academy](https://futuristacademy.org), non-profit focused providing the youth with knowledge, tools, opportunities, connections, and resources to make an impact
 * [Emerging Technology North](https://www.meetup.com/applied_ai)
