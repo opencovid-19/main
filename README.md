@@ -1,6 +1,6 @@
 ![covid19](https://github.com/opencovid-19/main/blob/master/covid_logo.png)
 
-> This is Open-Source Global Community Project that is targeted at FIGHTING against COVID-19 TOGETHER!
+> This is **Open-Source Global Community Project** that is targeted at FIGHTING against COVID-19 TOGETHER!
 
 ![covid19](https://www.cityofmonrovia.org/Home/ShowPublishedImage/9390/637194345629530000)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -17,6 +17,12 @@ As you are aware the world is experience a generational event going though a glo
 We believe in the ingenuity, intelligence, and brilliance of those in the community. That is why we are seeking that this community comes together to help build solutions that will help address the challenges we face not only today, but in the future.
 
 ## Getting Started
+**As an Individual (First Time Contributor)**
+1. Join the [Community Chat](https://discord.gg/UPWK3GA) group
+2. Say "Hi - My Name is... and My background..." to others in the community!
+2. Check out the [Awesome.md](https://github.com/opencovid-19/main/blob/master/awesome-covid19.md) list of resources
+3. Try [contributing / adding](#contributing) something to that list 
+
 **As a community:**
 1. Add yourself to the partner list
 2. Share this repository with your community
