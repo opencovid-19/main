@@ -20,8 +20,9 @@ We believe in the ingenuity, intelligence, and brilliance of those in the commun
 **As an Individual (First Time Contributor)**
 1. Join the [Community Chat](https://discord.gg/UPWK3GA) group
 2. Say "Hi - My Name is... and My background..." to others in the community!
-2. Check out the [Awesome.md](https://github.com/opencovid-19/main/blob/master/awesome-covid19.md) list of resources
-3. Try [contributing / adding](#contributing) something to that list 
+3. Save this repo by clicking :point_right: ![star](https://img.shields.io/github/stars/opencovid-19/main?style=social)
+4. Check out the [Awesome.md](https://github.com/opencovid-19/main/blob/master/awesome-covid19.md) list of resources
+5. Try [contributing / adding](#contributing) something to that list 
 
 **As a community:**
 1. Add yourself to the partner list
