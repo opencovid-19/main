@@ -84,6 +84,7 @@ Your contributions are always welcome!
 * [Observable Coronavirus Visualizations](https://observablehq.com/collection/@observablehq/coronavirus) a collection of COVID19 visualizations
 * [COVID-19 Infographics](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/), infographics you can use to inform others on COVID-19
 * [Next Strain](https://nextstrain.org/ncov)
+* [USA Facts](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/), interactive time-series map. Watch per state & county.
 
 ## Dashboards
 * [Johns Hopkins Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6), most famous covid19 dashboard
