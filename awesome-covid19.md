@@ -43,6 +43,7 @@ Your contributions are always welcome!
 * [Patient-Medical-Data-for-Novel-Coronavirus-COVID-19](https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19)
 * [Korea Case Data](https://github.com/jihoo-kim/Data-Science-for-COVID-19/blob/master/dataset-detailed-description.ipynb)
 * [State-by-state data](https://covidtracking.com/data/)
+* [New York Times data](https://github.com/nytimes/covid-19-data)
 
 ## Genomics
 * [Genetic-Sequences-for-the-SARS-CoV-2-Coronavirus](https://datarepository.wolframcloud.com/resources/Genetic-Sequences-for-the-SARS-CoV-2-Coronavirus)
