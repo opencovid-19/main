@@ -43,9 +43,11 @@ Your contributions are always welcome!
 * [Patient-Medical-Data-for-Novel-Coronavirus-COVID-19](https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19)
 * [Korea Case Data](https://github.com/jihoo-kim/Data-Science-for-COVID-19/blob/master/dataset-detailed-description.ipynb)
 * [State-by-state data](https://covidtracking.com/data/)
+* [New York Times data](https://github.com/nytimes/covid-19-data)
 * [Italy monitoring statistics - Dipartimento della Protezione Civile](https://github.com/pcm-dpc/COVID-19)
 * [OpenCOVID19 France](https://github.com/opencovid19-fr/data)
 * [NPGEO Corona Deutschland - Robert Koch-Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/)
+
 
 ## Genomics
 * [Genetic-Sequences-for-the-SARS-CoV-2-Coronavirus](https://datarepository.wolframcloud.com/resources/Genetic-Sequences-for-the-SARS-CoV-2-Coronavirus)
@@ -86,6 +88,7 @@ Your contributions are always welcome!
 * [Observable Coronavirus Visualizations](https://observablehq.com/collection/@observablehq/coronavirus) a collection of COVID19 visualizations
 * [COVID-19 Infographics](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/), infographics you can use to inform others on COVID-19
 * [Next Strain](https://nextstrain.org/ncov)
+* [USA Facts](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/), interactive time-series map. Watch per state & county.
 
 ## Dashboards
 * [Johns Hopkins Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6), most famous covid19 dashboard
