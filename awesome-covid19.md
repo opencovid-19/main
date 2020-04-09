@@ -89,12 +89,15 @@ Your contributions are always welcome!
 * [COVID-19 Infographics](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/), infographics you can use to inform others on COVID-19
 * [Next Strain](https://nextstrain.org/ncov)
 * [USA Facts](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/), interactive time-series map. Watch per state & county.
+* [Google Map](https://www.google.com/covid19-map/) - can break it down by country & state.
 
 ## Dashboards
 * [Johns Hopkins Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6), most famous covid19 dashboard
 * [Covid19 Globe](https://jsapi.dev/covid19-dashboard/), 3d globe with Johns Hopkins data
 * [COVID-19 Statistics with Map](http://covidly.com)
 * [COVID19 Global Map & US](https://covid19.fyi) (US counties again soon)
+* [Projections](https://covid19.healthdata.org/united-states-of-america), COVID-19 projections assuming full social distancing through May 2020
+
 ## Mobile
 *
 ## Projects
