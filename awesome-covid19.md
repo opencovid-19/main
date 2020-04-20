@@ -47,6 +47,7 @@ Your contributions are always welcome!
 * [Italy monitoring statistics - Dipartimento della Protezione Civile](https://github.com/pcm-dpc/COVID-19)
 * [OpenCOVID19 France](https://github.com/opencovid19-fr/data)
 * [NPGEO Corona Deutschland - Robert Koch-Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/)
+* [Pancea Lab Twitter Covid-19 dataset](https://github.com/thepanacealab/covid19_twitter)
 
 
 ## Genomics
