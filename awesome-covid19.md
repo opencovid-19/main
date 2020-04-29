@@ -105,7 +105,7 @@ Your contributions are always welcome!
 * [COVID19 OSS](https://github.com/covid19-oss)
 * [The COVID Tracking Project](https://covidtracking.com/)
 * [Covid19 Scenario Modeling](https://github.com/neherlab/covid19_scenarios)
-* [Epedemic Calculator](http://gabgoh.github.io/COVID/index.html), calculator implements a classical infectious disease model — SEIR (Susceptible → Exposed → Infected → Removed)
+* [Epidemic Calculator](http://gabgoh.github.io/COVID/index.html), calculator implements a classical infectious disease model — SEIR (Susceptible → Exposed → Infected → Removed)
 
 # Communities
 ## Slack
@@ -116,7 +116,8 @@ Your contributions are always welcome!
 * [Help with Covid](https://discord.gg/SMtJpJp)
 * [Hack Quarantine](https://discord.gg/hx8y7N5)
 * [COVID19 OSS](https://discord.gg/sbsVe7F)
-## Fourms
+
+## Forums
 * [covid-19-genomic-sequence-ideas](https://community.tigergraph.com/t/covid-19-genomic-sequence-ideas/40)
 
 ## Meetups
