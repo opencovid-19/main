@@ -44,6 +44,10 @@ Your contributions are always welcome!
 * [Korea Case Data](https://github.com/jihoo-kim/Data-Science-for-COVID-19/blob/master/dataset-detailed-description.ipynb)
 * [State-by-state data](https://covidtracking.com/data/)
 * [New York Times data](https://github.com/nytimes/covid-19-data)
+* [Italy monitoring statistics - Dipartimento della Protezione Civile](https://github.com/pcm-dpc/COVID-19)
+* [OpenCOVID19 France](https://github.com/opencovid19-fr/data)
+* [NPGEO Corona Deutschland - Robert Koch-Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/)
+
 
 ## Genomics
 * [Genetic-Sequences-for-the-SARS-CoV-2-Coronavirus](https://datarepository.wolframcloud.com/resources/Genetic-Sequences-for-the-SARS-CoV-2-Coronavirus)
