@@ -105,6 +105,8 @@ Your contributions are always welcome!
 * [The COVID Tracking Project](https://covidtracking.com/)
 * [Covid19 Scenario Modeling](https://github.com/neherlab/covid19_scenarios)
 * [Epedemic Calculator](http://gabgoh.github.io/COVID/index.html), calculator implements a classical infectious disease model — SEIR (Susceptible → Exposed → Infected → Removed)
+* [Detect and Protect Challenge](https://www.hackster.io/contests/UNDPCOVID19)
+* [Hackster.io](https://www.hackster.io/search?q=covid&i=projects)
 
 # Communities
 ## Slack
