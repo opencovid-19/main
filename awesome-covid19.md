@@ -47,6 +47,7 @@ Your contributions are always welcome!
 * [Italy monitoring statistics - Dipartimento della Protezione Civile](https://github.com/pcm-dpc/COVID-19)
 * [OpenCOVID19 France](https://github.com/opencovid19-fr/data)
 * [NPGEO Corona Deutschland - Robert Koch-Institut](https://npgeo-corona-npgeo-de.hub.arcgis.com/)
+* [Pancea Lab Twitter Covid-19 dataset](https://github.com/thepanacealab/covid19_twitter)
 
 
 ## Genomics
@@ -108,6 +109,8 @@ Your contributions are always welcome!
 * [Detect and Protect Challenge](https://www.hackster.io/contests/UNDPCOVID19)
 * [Hackster.io](https://www.hackster.io/search?q=covid&i=projects)
 
+
+
 # Communities
 ## Slack
 * [Hack Corona](https://join.slack.com/t/hackcorona/shared_invite/zt-cz94l2za-1cAhYCUcI13BNArlAWzG~Q)
@@ -117,7 +120,8 @@ Your contributions are always welcome!
 * [Help with Covid](https://discord.gg/SMtJpJp)
 * [Hack Quarantine](https://discord.gg/hx8y7N5)
 * [COVID19 OSS](https://discord.gg/sbsVe7F)
-## Fourms
+
+## Forums
 * [covid-19-genomic-sequence-ideas](https://community.tigergraph.com/t/covid-19-genomic-sequence-ideas/40)
 
 ## Meetups
